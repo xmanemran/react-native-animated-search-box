@@ -1,0 +1,23 @@
+{
+  "name": "react-native-animated-toolbar-search-box",
+  "version": "1.0.0",
+  "description": "Animated search toolbar for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmanemran/react-native-animated-toolbar-search-box.git"
+  },
+  "keywords": [
+    "search",
+    "toolbar"
+  ],
+  "author": "Emran <xmanemran@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmanemran/react-native-animated-toolbar-search-box/issues"
+  },
+  "homepage": "https://github.com/xmanemran/react-native-animated-toolbar-search-box#readme"
+}
